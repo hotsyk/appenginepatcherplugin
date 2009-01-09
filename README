@@ -1,0 +1,3 @@
+Appenginepatcherplugin is Nose plugin to patch GAE and Django with
+appenginepatch (http://code.google.com/p/app-engine-patch) and run
+nose tests correctly.
