@@ -1,3 +1,8 @@
 Appenginepatcherplugin is Nose plugin to patch GAE and Django with
 appenginepatch (http://code.google.com/p/app-engine-patch) and run
 nose tests correctly.
+
+To setup: run python setup.py install
+To run with nose:
+ * Setup environment variable NOSE_APPENGINEPATCHERPLUGIN to True
+ * or run nose with --appenginepatcherplugin option
